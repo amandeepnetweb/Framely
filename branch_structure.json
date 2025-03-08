@@ -1,0 +1,15 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "ui/editor-rework"
+  ],
+  "parent": {
+    "main": null,
+    "ui/editor-rework": "main"
+  },
+  "order": [
+    "main",
+    "ui/editor-rework"
+  ]
+}
